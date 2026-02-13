@@ -8,6 +8,7 @@ I am currently following DSMP 2.0 for the course material and more are available
 
 - The older files have been moved to the `Older/` folder.
 - I will be redoing the Data Science Series with more practice.
+- Name formatting has been changed for better searching.
 
 ## Discord Server
 
